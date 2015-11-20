@@ -1,0 +1,26 @@
+Thu Nov 12 12:48:20 2015
+latexindent.pl version 1.11R, a script to indent .tex files
+latexindent.pl lives here: /usr/bin/
+
+Directory for backup files and indent.log: ./
+
+file: geodis15.tex
+Reading defaultSettings.yaml from /usr/bin/defaultSettings.yaml
+
+Home directory is /home/florent
+To specify user settings you would put indentconfig.yaml here: 
+	/home/florent/indentconfig.yaml
+
+
+Backup procedure:
+
+	 copying geodis15.tex to .//geodis15.bak0
+
+	 Backup file: .//geodis15.bak0
+	 Overwriting file: geodis15.tex
+
+Line 427	 \end{document} found- emptying indent array 
+Line Count of geodis15.tex: 427
+Line Count of indented geodis15.tex: 427
+
+Line counts of original file and indented file match
