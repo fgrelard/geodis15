@@ -1,0 +1,49 @@
+Slide 0: logos, affiliations
+Slide 2: tubes => segmentation => volumes binaires
+ + exemple image
+ + les 2 points
+ + besoins, caractérisaitons
+ + travail des médecins sur les bronches
+ + importance des sections en lien avec les plans
+
+Slide 5: quel algo de squelettisation
+Calculs => estimations
+2 points
+thinning => amincissement
+
+Références avec année, garder meme syntaxe
+Slide 6: moyenne des orientations
+
+Slide 8: différence entre applications (estimateur de normales) et définition
+supprimer figure droite + meilleure transition continu discret
+
+Slide 9:
+offset=> borner cellules de Voronoi
+couleur dans txt
+
+Slide 10: mettre ref pour propriétés
+
+Slide 11: Mieux faire transition avec squelette + volumes
+Se dispenser des notations
+Améliorer les figures: cellule de Voronoi en un pt
+Réduire le texte
+Cohérence dans la citation
+
+Slide 12:
+Dire inconvénients de travailler sur des squelettes => transition avec volumes
+Parler de cellules de Voronoi a la place des cones normaux
+
+Slide 14:
+Perturbation surface => algo de Kanungo: simuler objet segmenté et ses perturbations
+moyenne des aires sur l'ensemble des sectiosn
+expliquer l mst sur ic
+améliorer les moustaches
+
+Slide 15: 
+Cylindre=> tube
++ variation ellipticité
+
+Slide 18:
+Perspectives => travail en cours
+supprimer bruit hausdorff
+abstraction du squelette dans certains cas
